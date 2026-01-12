@@ -10,7 +10,7 @@ export const AgentNode = memo(({ data, isConnectable }: NodeProps<NodeData>) => 
     <div 
       className="shadow-md rounded-md p-1 w-[120px] h-[120px]"
       style={{
-        background: 'linear-gradient(to bottom right, #00C0FF, #8000FF, #FF0080)',
+        background: 'linear-gradient(to bottom right, #34D399, #065F46)',
       }}
     >
       <div className="w-full h-full bg-white rounded-md flex flex-col items-center justify-center gap-2">
