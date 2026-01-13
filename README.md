@@ -34,25 +34,25 @@ Getting started with Mantle No-Code Agent Builder is simple! Follow these steps:
 2. **Get Started** with just a Google sign in.
 3. **Create an Agent Wallet** or Import your own wallet from private key.
    
-   <img width="1470" height="913" alt="Screenshot 2025-11-05 at 3 55 35 PM" src="https://github.com/user-attachments/assets/6949d8b9-380b-468c-8be4-6c13df0430a0" />
+   <img width="1281" height="795" alt="Screenshot 2026-01-13 at 3 48 33 PM" src="https://github.com/user-attachments/assets/517ceb4d-8fc7-4b84-9eea-ac4a90f1fcaa" />
 
 4. **Create Your First Agent** by just drag-dropping the tools you need!
    
-   <img width="1470" height="919" alt="Screenshot 2025-11-05 at 3 57 10 PM" src="https://github.com/user-attachments/assets/b402548a-9509-4e36-8a50-3e168616744f" />
+   <img width="1281" height="795" alt="Screenshot 2026-01-13 at 3 49 17 PM" src="https://github.com/user-attachments/assets/2a4f916d-fa6d-4d70-9886-fff451000a4c" />
 
 5. **You Can Also AI Generate Your Agent!** just ask our AI to generate your agent with the right tools.
    
-   <img width="1470" height="919" alt="Screenshot 2025-11-05 at 3 58 19 PM" src="https://github.com/user-attachments/assets/6e660f4d-0c49-439b-87f8-ab8bce482a5c" />
+   <img width="1281" height="795" alt="Screenshot 2026-01-13 at 3 49 44 PM" src="https://github.com/user-attachments/assets/efc5f3f9-86b9-4f38-9715-bd2f4d37b730" />
 
 6. **Save your agent**.
 
-   <img width="1470" height="919" alt="Screenshot 2025-11-05 at 3 57 43 PM" src="https://github.com/user-attachments/assets/f877450d-9bd4-428b-8cbe-f35af87d4752" />
+   <img width="1281" height="795" alt="Screenshot 2026-01-13 at 3 50 05 PM" src="https://github.com/user-attachments/assets/bbd44022-aa25-419d-93ee-3f661fb59882" />
 
 7. **Interact with it** in the UI or with curl requests by using your api key.
    
-   <img width="1470" height="918" alt="Screenshot 2025-11-05 at 7 11 58 PM" src="https://github.com/user-attachments/assets/bcba568e-381e-4f1b-bdf5-224b837d8b5b" />
+   <img width="1281" height="795" alt="Screenshot 2026-01-13 at 3 50 20 PM" src="https://github.com/user-attachments/assets/b78a9b18-f187-4834-9464-719cc7ca1f4e" />
 
-   <img width="1385" height="483" alt="Screenshot 2025-11-05 at 4 00 37 PM" src="https://github.com/user-attachments/assets/6dc16a6d-cbf8-4baa-9028-ae1b2fdd14cc" />
+   <img width="1281" height="440" alt="Screenshot 2026-01-13 at 3 50 43 PM" src="https://github.com/user-attachments/assets/dd440f8e-81be-4354-aa36-0c8d5abbf253" />
 
 That's it! You've created your first Mantle agent without any programming knowledge, as simple as that!
 
@@ -1299,7 +1299,3 @@ graph TB
 ## License
 
 MIT License
-
----
-
-**Built for the Mantle Testnet** 🌙
