@@ -9,7 +9,7 @@ The platform supports 10 blockchain tools including **token transfers, swaps, to
 ## Resources
 
 * **Pitch Deck** : [View Here](https://www.canva.com/design/DAG-Mepf_e4/zYLX5h79SFjUJDy2uGc6kw/view?utm_content=DAG-Mepf_e4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hd03800f4ce)
-* **Demo Video** : [View Here]()
+* **Demo Video** : [View Here](https://www.hackquest.io/projects/Mantle-Global-Hackathon-2025-Mantle-No-Code-Agent-Builder)
 * **Live Demo** : [View Here](https://Mantle-agent-builder.vercel.app)
   
 ### Deployed Tool Contracts
